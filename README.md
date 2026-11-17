@@ -5,3 +5,6 @@ our advantages:
 -high search accuracy
 -high search speed
 -low price
+-Сделайте коммит с изменениями.
+-Отправьте коммит в репозиторий: git push -u origin new-text.
+-Откройте репозиторий на GitHub в браузере, переключитесь на ветку new-text и скопируйте ссылку из адресной строки браузера
